@@ -1,24 +1,49 @@
-
 {
-  "name": "react-native-azteccode-qrcode-generator",
-  "version": "0.2.3",
-  "description": "react-native Aztec and qrocode generator",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cssivision/react-native-qrcode.git"
+  "_from": "https://github.com/umer990/react-native-azteccode-qrcode-generator/tarball/master",
+  "_id": "react-native-azteccode-qrcode-generator@0.2.3",
+  "_inBundle": false,
+  "_integrity": "sha1-ILrGOzG0OCpOO7Q0WCcImZsUFQI=",
+  "_location": "/react-native-azteccode-qrcode-generator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://github.com/umer990/react-native-azteccode-qrcode-generator/tarball/master",
+    "rawSpec": "https://github.com/umer990/react-native-azteccode-qrcode-generator/tarball/master",
+    "saveSpec": "https://github.com/umer990/react-native-azteccode-qrcode-generator/tarball/master",
+    "fetchSpec": "https://github.com/umer990/react-native-azteccode-qrcode-generator/tarball/master"
   },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://github.com/umer990/react-native-azteccode-qrcode-generator/tarball/master",
+  "_spec": "https://github.com/umer990/react-native-azteccode-qrcode-generator/tarball/master",
+  "_where": "/Users/lord/Development/Foodstuffs/FoodstuffsMobile",
+  "author": {
+    "name": "umer.malik",
+    "email": "umerkhan@outlook.com"
+  },
+  "bugs": {
+    "url": "https://github.com/cssivision/react-native-qrcode/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "qr.js": "0.0.0",
+    "prop-types": "^15.5.7"
+  },
+  "deprecated": false,
+  "description": "react-native Aztec and qrocode generator",
+  "homepage": "https://github.com/cssivision/react-native-qrcode#readme",
   "keywords": [
     "react-native",
     "qrcode"
   ],
-  "author": "umer.malik <umerkhan@outlook.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cssivision/react-native-qrcode/issues"
+  "main": "index.js",
+  "name": "react-native-azteccode-qrcode-generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssivision/react-native-qrcode.git"
   },
-  "homepage": "https://github.com/cssivision/react-native-qrcode#readme",
-  "dependencies": {
-    "qr.js": "0.0.0"
-  }
+  "version": "0.2.3"
 }
